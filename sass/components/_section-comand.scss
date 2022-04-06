@@ -98,6 +98,6 @@
 .comand-social__icon {
   transition: fill 250ms $timing-function, background-color 250ms $timing-function;
 }
-.comand-social__item + .comand-social-item {
+.comand-social__item + .comand-social__item {
   margin-left: 10px;
 }
